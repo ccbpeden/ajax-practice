@@ -1,0 +1,5 @@
+name = Ajax Reader Demo 2.0
+description = Another way
+package = My Custom Modules
+core = 7.x
+files[] = ajax_reader.module
