@@ -1,0 +1,6 @@
+name = Ajax Datetime Module
+description = Custom module to display date and time with an Ajax call.
+core = 7.x
+package = Custom Modules
+files[] = timemodule.module
+scripts[] = timescript.js
